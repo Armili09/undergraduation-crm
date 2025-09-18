@@ -6,7 +6,7 @@ Internal CRM dashboard that will be used to manage student interactions on under
 - index.html
 - style.css
 - script.js
-  <br>You can open the html in the browser.
+<br>You can open the html in the browser.
 
 # Features
 - Student Directory with search and filtering
