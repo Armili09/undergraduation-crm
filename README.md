@@ -16,3 +16,6 @@ Internal CRM dashboard that will be used to manage student interactions on under
 - Internal Notes system
 - Application Progress tracking
 - AI-generated student summaries
+
+# LOOM video
+Link: https://www.loom.com/share/b4f3948b3ca54c00ab2f6ab001bd4172?sid=174e5623-e5b9-431a-af0c-e72e84aa97fc
